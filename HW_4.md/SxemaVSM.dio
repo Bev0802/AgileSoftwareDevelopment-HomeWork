@@ -1,0 +1,120 @@
+<mxfile host="65bd71144e">
+    <diagram id="7mcf_HIhQs3hTMeHdn5S" name="Страница 1">
+        <mxGraphModel dx="1023" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#1C1C1A" math="0" shadow="1">
+            <root>
+                <object label="" id="0">
+                    <mxCell/>
+                </object>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;br&gt;Учатие в тендере" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="80" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;b&gt;1 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="3" vertex="1">
+                    <mxGeometry width="120" height="14.857142857142856" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=5;shape=mxgraph.lean_mapping.timeline2;dx1=0;dy1=0.875;dx2=0;dy2=0;dx3=119.588;dy3=1;dx4=238.412;dy4=0;dx5=360;dy5=0.085;dy6=1;rounded=1;fillColor=#FFFFCC;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="760" width="360" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;b&gt;Этапы работы&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="10" width="1080" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 12px;&quot;&gt;Выигрышь в тендере&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="80" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="2 этап" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="9" vertex="1">
+                    <mxGeometry width="120" height="14.857142857142856" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;b&gt;Потери&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="190" width="1080" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;b&gt;Решение&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="37.5" y="440" width="1080" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;b&gt;TimeLine&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="680" width="1080" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=4;shape=mxgraph.lean_mapping.timeline2;dx1=0;dy1=0.915;dx2=119.235;dy2=0;dx3=238.059;dy3=0.856;dx4=358.059;dy4=0;dx5=483.941;dy5=0.974;dy6=0;rounded=1;direction=west;fillColor=#FFFFCC;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="760" width="600" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 12px;&quot;&gt;Закупка необходимого инструмента&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="80" width="115" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="3 этап" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="19" vertex="1">
+                    <mxGeometry width="115.00000000000001" height="14.857142857142856" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 12px;&quot;&gt;Упаковка и отправка&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="760" y="80" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="4 этап" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="21" vertex="1">
+                    <mxGeometry width="120.00000000000003" height="14.857142857142856" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;Получение товара покупателем&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="80" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="5 этап" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="23" vertex="1">
+                    <mxGeometry width="120" height="14.857142857142856" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Время и ресурсы, затраченные на подготовку и участие в тендере, без гарантии выигрыша." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="260" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;b&gt;1 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="28" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Оценить тщательно потребности организации перед участием в тендере. Сосредотачиваться на тендерах, где есть высокие шансы на успех." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="37.5" y="500" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;b&gt;1 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="30" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Время между выигрышем тендера и фактической закупкой товара." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="264" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;b&gt;2 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="32" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Задержки в поиске &lt;br&gt;и закупке необходимого инструмента." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="264" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;b&gt;3 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="34" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Задержки в упаковке и отправке товара." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="760" y="264" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;b&gt;4 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="36" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Время между отправкой товара и его фактическим получением." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="260" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;b&gt;5 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="38" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Оптимизировать логистику доставки и предоставить клиентам информацию о статусе доставки." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="500" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;b&gt;5 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="40" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="Своевременное взаимодействие с заказчиком для ускорения процесса закупки." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="500" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="&lt;b&gt;2 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="44" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="&lt;div&gt;Поддерживать стратегические партнерства с надежными поставщиками. Мониторить рынок и иметь запасы ключевого инструмента.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="490" width="120" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="&lt;b&gt;3 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="46" vertex="1">
+                    <mxGeometry width="120" height="33.42857142857142" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Оптимизировать процесс упаковки и улучшить логистику для более быстрой доставки." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="760" y="500" width="120" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="&lt;b&gt;4 этап&lt;/b&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;rounded=1;" parent="48" vertex="1">
+                    <mxGeometry width="120" height="27.857142857142854" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
